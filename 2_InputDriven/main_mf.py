@@ -12,6 +12,9 @@
 #### Within the DMF theory, activity is then described in terms of mean (mu), overlap (kappa) and variance (delta) of x
 #### The input contains no component along m (Simi = 0, see Methods)
 
+#### Note that the Data/ folder is empty to begin; this code needs to be run with the flag doCompute = 1
+#### at least once
+
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 
 ### Import functions

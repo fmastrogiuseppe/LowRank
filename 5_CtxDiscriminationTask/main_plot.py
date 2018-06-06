@@ -7,14 +7,17 @@
 #### "Linking connectivity, dynamics and computations in recurrent neural networks"
 #### F. Mastrogiuseppe and S. Ostojic (2018)
 
-#### CODE 5: sample rank-one network for the contex-dependent discrimination task (related to Fig. 5 C-D-E)
+#### CODE 5: sample rank-two network for the contex-dependent discrimination task (related to Fig. 5 C-D-E)
 #### The code is composed of two main scripts, to be run in the order:
 #### main.simulate.py  -  generates a network and the activity in response to stimuli A and B
 ####                      in both contexts
 #### main.plot.py  -  plots single neuron and population activity
 
-#### Note: this more complex model suffers of stronger finite-size effects.
-#### If the network you generated does not solve the task, you haven't been lucky, try with another one ;)
+#### Note that this more complex model suffers of stronger finite-size effects.
+#### If the network you generated does not solve the task, you haven't been lucky, try with another one...
+
+#### Note that the Data/ folder is empty to begin; the code main_simulate.py needs to be run  
+#### at least once
 
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 

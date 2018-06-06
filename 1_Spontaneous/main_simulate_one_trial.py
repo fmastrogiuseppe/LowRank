@@ -9,6 +9,9 @@
 
 #### CODE 1b: spontaneous activity in rank-one networks - simulate a finite-size network (related to Fig. 1B)
 
+#### Note that the Data/ folder is empty to begin; this code needs to be run with the flag doCompute = 1
+#### at least once
+
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 
 ### Import functions

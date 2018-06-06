@@ -9,10 +9,13 @@
 
 #### CODE 4: sample rank-one network for the Go-Nogo detection (related to Fig. 4 B-C-D-E)
 #### The code is composed of three main scripts, to be run in the order:
-#### main.simulate.py  -  genates a network and the activity in response to two stimulus intensities,
-####                      for 10 different noise realizations
-#### main.plot.py  -  plots single neuron and population activity
-#### main.regression.py  -  computes the regression axis for input and choice
+#### main_simulate.py  -  generates a network and the activity in response to four stimulus intensities,
+####                      for Nic different noise realizations
+#### main_plot.py  -  plots single neuron and population activity
+#### main_regression.py  -  computes the regression axis for input and choice
+
+#### Note that the Data/ folder is empty to begin; the code main_simulate.py needs to be run  
+#### at least once
 
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 

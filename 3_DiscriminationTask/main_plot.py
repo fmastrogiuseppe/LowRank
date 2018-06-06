@@ -9,10 +9,13 @@
 
 #### CODE 3: sample rank-one network for the Go-Nogo discrimination task (related to Fig. 3 B-C-E-F)
 #### The code is composed of three main scripts, to be run in the order:
-#### main.simulate.py  -  genates a network and the activity in response to Go and Nogo stimulus
-#### main.plot.py  -  plots single neuron and population activity
-#### main.PCA_connectivity.py  -  computes the first PC axis for Go and Nogo trials, and correlates
+#### main_simulate.py  -  generates a network and the activity in response to Go and Nogo stimulus
+#### main_plot.py  -  plots single neuron and population activity
+#### main_PCA_connectivity.py  -  computes the first PC axis for Go and Nogo trials, and correlates
 ####                              them with the average pair connectivity
+
+#### Note that the Data/ folder is empty to begin; the code main_simulate.py needs to be run  
+#### at least once
 
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 

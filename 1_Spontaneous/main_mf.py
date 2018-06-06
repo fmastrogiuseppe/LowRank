@@ -12,6 +12,9 @@
 #### The overlap direction is defined along the unitary direction (rho = 0, see Methods)
 #### Within the DMF theory, activity is then described in terms of mean (mu) and variance (delta) of x
 
+#### Note that the Data/ folder is empty to begin; this code needs to be run with the flag doCompute = 1
+#### at least once
+
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 
 ### Import functions

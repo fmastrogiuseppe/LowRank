@@ -13,8 +13,11 @@
 ####                      in both contexts
 #### main.plot.py  -  plots single neuron and population activity
 
-#### Note: this more complex model suffers of stronger finite-size effects.
-#### If the network you generated does not solve the task, you haven't been lucky, try with another one ;)
+#### Note that this more complex model suffers of stronger finite-size effects.
+#### If the network you generated does not solve the task, you haven't been lucky, try with another one...
+
+#### Note that the Data/ folder is empty to begin; the code main_simulate.py needs to be run  
+#### at least once
 
 
 #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### #### 
