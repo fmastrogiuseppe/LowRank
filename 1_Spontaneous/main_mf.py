@@ -45,7 +45,7 @@ g_values = np.linspace(g_min, g_max, 200)        # Random strength
 # We compute two variance values: the population variance delta0 and the individual one delta0I (see Methods)
 # Within chaotic phases, the stationary fraction of the variance deltainf is computed as well (see Methods)
 
-doCompute = 0
+doCompute = 1
 
 path_here = 'Data/'
 
