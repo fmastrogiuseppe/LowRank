@@ -2,7 +2,7 @@ Supplementary code for the paper "Linking connectivity, dynamics and computation
 
 Instructions:
 
--    every folder contains the code which can be used to generate the sample figures which are attrached (the Data folder is originally empty);
+-    every folder contains the code which can be used to generate the sample figures which are attached (the Data folder is originally empty);
 -    the 'main_xxx.py' files contain the main scripts to be executed;
 -    the 'fct_xxx.py' files contain the accessory functions that are used in the main scripts;
 -    extra information can be found at the top of the main scripts;
